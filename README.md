@@ -62,6 +62,8 @@ To run this application:
  - Mongoose
 
  ---
+ <img src = "rmImgs/sitemap-solid.svg" width="40">
+
 ## Directory Structure
 ```
 ├── models
