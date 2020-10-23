@@ -2,6 +2,7 @@
 ![Language](https://img.shields.io/static/v1?label=JavaScript&message=language&color=brightgreen)
 
 ## Deployed Site:
+https://glacial-falls-07220.herokuapp.com/
 
 
 ![IMAGE](rmImgs/dashboard.png)
