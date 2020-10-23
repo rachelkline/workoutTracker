@@ -28,6 +28,7 @@ https://glacial-falls-07220.herokuapp.com/
   - [Deployed Site](#deployed-site)
   - [Description](#description)
   - [Usage](#usage)
+  - [Technologies](#technologies)
   - [Directory Structure](#directory-structure)
   - [Questions](#questions)
  
@@ -52,6 +53,15 @@ To run this application:
 <img src = "rmImgs/laptop-code-solid.svg" width="40">
 
 
+## Technologies
+*Technologies used in this project:*
+ - Javascript
+ - Express
+ - Node.js
+ - MongoDB
+ - Mongoose
+
+ ---
 ## Directory Structure
 ```
 ├── models
